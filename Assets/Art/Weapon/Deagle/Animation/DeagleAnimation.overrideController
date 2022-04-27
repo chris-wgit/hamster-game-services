@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DeagleAnimation
+  m_Controller: {fileID: 9100000, guid: 4cc9dc84a29cabd4397dda7f8c93d3a5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 205e9ffacc08fad4a9b9b7ee0776c42f, type: 2}
+    m_OverrideClip: {fileID: 8203081022257185253, guid: 3ebb38d278f3ddf4fbca2bb96f6828a7, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d07e7d650a444fd46bbaeeaa9d2586e6, type: 2}
+    m_OverrideClip: {fileID: 8486308845319804860, guid: 3ebb38d278f3ddf4fbca2bb96f6828a7, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d713ed6ea4ec88e40927356c0f2ed793, type: 2}
+    m_OverrideClip: {fileID: -448239265334008587, guid: 3ebb38d278f3ddf4fbca2bb96f6828a7, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a20b30d488c7cb747b5c2ce8f79e521d, type: 2}
+    m_OverrideClip: {fileID: 8486308845319804860, guid: 3ebb38d278f3ddf4fbca2bb96f6828a7, type: 3}
+  - m_OriginalClip: {fileID: 746687611944772402, guid: 351df5b73c32840d4a44e14c7b3d49b7, type: 3}
+    m_OverrideClip: {fileID: 8203081022257185253, guid: 3ebb38d278f3ddf4fbca2bb96f6828a7, type: 3}

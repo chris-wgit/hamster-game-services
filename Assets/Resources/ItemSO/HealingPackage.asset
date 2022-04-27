@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5688440c8dda5d74c892844e8f7c6c04, type: 3}
+  m_Name: HealingPackage
+  m_EditorClassIdentifier: 
+  itemName: Healing Package
+  description: 
+  itemObject: {fileID: 3278128086013105588, guid: ac3636d311786cb41979e3b3cb107633, type: 3}
+  OnSpawnVFX: {fileID: 0}
+  OnSpawnSFX: {fileID: 0}
+  OnDespawnVFX: {fileID: 0}
+  OnDespawnSFX: {fileID: 0}
+  healthAmount: 800

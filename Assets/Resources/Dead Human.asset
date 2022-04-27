@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 725574791844c094d8bd455d0cd0538e, type: 3}
+  m_Name: Dead Human
+  m_EditorClassIdentifier: 
+  id: 7
+  characterName: Deadheads Human
+  description: 
+  Icon: {fileID: 0}
+  characterPrefab: {fileID: 0}
+  characterMesh: {fileID: 0}
+  health: 3600
+  movementSpeed: 27
+  weaponData: {fileID: 11400000, guid: 67411ffd10ae56143a736ffc49a7fbaa, type: 2}
+  weaponLibrary: {fileID: 11400000, guid: 90bb83c0e1072bf43921ae8fba6906df, type: 2}
+  additionSkill: {fileID: 11400000, guid: 94969d5134a50d8419523bc5ecec9f3e, type: 2}
+  OnDespawnFX: {fileID: 140474, guid: 56e3e0c71ef4cbe4dbda074c547d7bd4, type: 3}

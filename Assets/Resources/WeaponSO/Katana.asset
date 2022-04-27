@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2c110138516dc42a3e0f41f785c9ef, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  id: katana
+  weaponName: Katana
+  description: 
+  icon: {fileID: 21300000, guid: 62dc98edb419cc345befcd403637f961, type: 3}
+  weaponPrefab_R: {fileID: 4216888365486530160, guid: 1087f995c66c8a94c96fc1788c6611e9, type: 3}
+  weaponPrefab_L: {fileID: 0}
+  overrideAnimator: {fileID: 22100000, guid: 09ac9ecb47613ef47acdfeb0443b0227, type: 2}
+  weaponSkill: {fileID: 11400000, guid: f158bc7ee7b703e4fb7afe379354d7fa, type: 2}
+  weaponUltimate: {fileID: 11400000, guid: 9c37fe3b488722444884107f6728d5ae, type: 2}

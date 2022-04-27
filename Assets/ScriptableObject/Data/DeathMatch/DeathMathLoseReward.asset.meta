@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Dead-Brawlers/Assets/ScriptableObject/Data/DeathMatch/DeathMathLoseReward.asset.meta
+guid: 0acd4d24b8981ad4e9bec5e093134d6a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+=======
+guid: 8481690fe98d19c48933acfdb44ef8f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+>>>>>>> d949cf5d33e9770f04bfaa7c831147d9f7170217:Dead-Brawlers/Assets/Scenes/Game_DeathMatch/LightingData.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

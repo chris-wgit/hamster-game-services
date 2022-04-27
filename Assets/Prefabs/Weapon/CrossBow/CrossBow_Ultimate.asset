@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2154b146b4bfe44a1040f949a337b7, type: 3}
+  m_Name: CrossBow_Ultimate
+  m_EditorClassIdentifier: 
+  skillName: Cross Bow Ultimate
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 1
+  initialCharge: 0
+  cooldown: 18
+  actionDuration: 0.5
+  characterState: 5
+  OnSpawnVFX: {fileID: 185366, guid: 60c97daf55357bf44a917c6c48081efe, type: 3}
+  OnSpawnSFX: {fileID: 8300000, guid: 582f1f0a899cbd248b1b99a64a3a7bfa, type: 3}
+  OnDespawnVFX: {fileID: 182802, guid: 57ac5680dabf21944b5c2d0366061eb9, type: 3}
+  OnDespawnSFX: {fileID: 8300000, guid: 000a72c6aac6bff418c7e1806259faa6, type: 3}
+  shakeFeedbackPower: 0
+  damagedObject: {fileID: 6705577256903112784, guid: 8e297d6e5f7202845b5f9ca59154e0e9, type: 3}
+  damage: 1850
+  despawnOnColliderCharacter: 1
+  despawnOnColliderEnvironment: 1
+  range: 80
+  speed: 10

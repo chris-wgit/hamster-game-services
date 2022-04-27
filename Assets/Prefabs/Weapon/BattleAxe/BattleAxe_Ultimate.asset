@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f43d63c881fbf44aae94cffdf31922, type: 3}
+  m_Name: BattleAxe_Ultimate
+  m_EditorClassIdentifier: 
+  skillName: Battle Axe Ultimate
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 1
+  initialCharge: 0
+  cooldown: 17
+  actionDuration: 0.5
+  characterState: 5
+  OnSpawnVFX: {fileID: 0}
+  OnSpawnSFX: {fileID: 8300000, guid: 9d051e3c6139ee14781c2e8dd5e1f447, type: 3}
+  OnDespawnVFX: {fileID: 0}
+  OnDespawnSFX: {fileID: 0}
+  shakeFeedbackPower: 1
+  damagedObject: {fileID: 622960230880321260, guid: 41e9d4a20da8b5146ab759d63d2eff03, type: 3}
+  damage: 1440
+  despawnOnColliderCharacter: 0
+  despawnOnColliderEnvironment: 1
+  lifeTime: 2

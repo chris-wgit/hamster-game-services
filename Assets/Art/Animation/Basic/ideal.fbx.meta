@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 351df5b73c32840d4a44e14c7b3d49b7
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 746687611944772402
+    second: krisaRig_01:DeformationSystem|krisaRig_01:DeformationSystem|Take 001|BaseLayer
+  - first:
+      74: -5460823094776114404
+    second: krisaRig_01:DeformationSystem|krisaRig_01:Main|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_aiStandardSurface6
+    second: {fileID: 2100000, guid: e7c21f867aec14eb493da2c85acbce45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_aiStandardSurface7
+    second: {fileID: 2100000, guid: cb2e616b88fc54b96ab4928e832f4429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn10
+    second: {fileID: 2100000, guid: 65e8ee73cb7894bb49235891c30b10ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn12
+    second: {fileID: 2100000, guid: 5264237dab2c44ca8a9c60bd202e870c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn13
+    second: {fileID: 2100000, guid: cc6e6c10cd2544c84a0c7a7e958a7a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn14
+    second: {fileID: 2100000, guid: 1b7804ac0ef414d99b0af36e84864f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn15
+    second: {fileID: 2100000, guid: eefbbf5e3133741b89980c1d96f1429e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn16
+    second: {fileID: 2100000, guid: d49111ba746f44549846a5c0201ce805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn3
+    second: {fileID: 2100000, guid: b8b6ec03016904b6499ba798d45551bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn4
+    second: {fileID: 2100000, guid: 97829b624587740209dd06d459f1e7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn5
+    second: {fileID: 2100000, guid: 7218ef0a339f94694ac5819b96bfac05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn6
+    second: {fileID: 2100000, guid: efdcc97fe8f734c96a0849ecc4415b79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn7
+    second: {fileID: 2100000, guid: 0d36f6650162e42fea0548b8e27416b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn8
+    second: {fileID: 2100000, guid: 502f78041af944f78ae886c996173178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_blinn9
+    second: {fileID: 2100000, guid: 3934f78130bc04b01a20a8fb65ee9f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_lambert10
+    second: {fileID: 2100000, guid: 410f25979da454dc789ea9e1982c1dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_lambert11
+    second: {fileID: 2100000, guid: 978856ee585574de6978c5b7b59ead0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_lambert8
+    second: {fileID: 2100000, guid: 3898acd39b71d4faeaea61926fb43f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_lambert9
+    second: {fileID: 2100000, guid: 7ab9c55d59a7b409bbbd8f3b7b39376f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krisaRig_01_standardSurface2
+    second: {fileID: 2100000, guid: 4e08fde4335bc47388a3c343bc48ac91, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: krisaRig_01:DeformationSystem|krisaRig_01:DeformationSystem|Take 001|BaseLayer
+      takeName: krisaRig_01:DeformationSystem|krisaRig_01:DeformationSystem|Take
+        001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: krisaRig_01:DeformationSystem|krisaRig_01:Main|Take 001|BaseLayer
+      takeName: krisaRig_01:DeformationSystem|krisaRig_01:Main|Take 001|BaseLayer
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: krisaRig_01:Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Spine2_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Chest_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ShoulderPart1_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ShoulderPart1_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Toes_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Toes_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: krisaRig_01:PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ideal(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: krisaRig_01:DeformationSystem
+      parentName: ideal(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008146034, y: 6.123234e-17, z: 6.1232336e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: krisaRig_01:Root_M
+      parentName: krisaRig_01:DeformationSystem
+      position: {x: -6.4028427e-10, y: 0.047593527, z: 0.0053944443}
+      rotation: {x: 0.49946964, y: -0.5005299, z: -0.4994697, w: 0.5005298}
+      scale: {x: 1.0000068, y: 1.0000064, z: 1.0000064}
+    - name: krisaRig_01:Hip_R
+      parentName: krisaRig_01:Root_M
+      position: {x: 0.005679425, y: 0.00053854036, z: -0.068815894}
+      rotation: {x: -0.02819867, y: 0.9970763, z: -0.06706605, w: -0.02336645}
+      scale: {x: 1.0000142, y: 1.0000131, z: 1.0000134}
+    - name: krisaRig_01:Knee_R
+      parentName: krisaRig_01:Hip_R
+      position: {x: -0.017702417, y: -0.000000003427267, z: 0.00000000115484}
+      rotation: {x: -0.00000003824243, y: 0.000000072643154, z: 0.060093362, w: 0.9981928}
+      scale: {x: 0.99999684, y: 0.99999756, z: 1}
+    - name: krisaRig_01:Ankle_R
+      parentName: krisaRig_01:Knee_R
+      position: {x: -0.009712318, y: -0.0000000024586915, z: -7.8231094e-10}
+      rotation: {x: -0.0721905, y: -0.019103646, z: -0.030786444, w: 0.99673253}
+      scale: {x: 0.9999997, y: 1.0000032, z: 1.0000049}
+    - name: krisaRig_01:Toes_R
+      parentName: krisaRig_01:Ankle_R
+      position: {x: -0.01222005, y: 0.025631007, z: 0.0000000033841934}
+      rotation: {x: 0.0027750095, y: 0.00264383, z: -0.69001865, w: 0.72378147}
+      scale: {x: 1.000002, y: 1.0000001, z: 1.0000006}
+    - name: krisaRig_01:ToesEnd_R
+      parentName: krisaRig_01:Toes_R
+      position: {x: -0.021355977, y: -8.9406965e-10, z: 0.000000024624168}
+      rotation: {x: 0.00000012177041, y: 0.00000061152963, z: 0.000000023524986, w: 1}
+      scale: {x: 1.0000024, y: 1.0000011, z: 1.0000006}
+    - name: krisaRig_01:Spine2_M
+      parentName: krisaRig_01:Root_M
+      position: {x: -0.034964982, y: -0.00000000941247, z: 0.000000001583783}
+      rotation: {x: -0, y: -0.000000059604638, z: 0.02066758, w: -0.9997864}
+      scale: {x: 1.000003, y: 1.0000038, z: 1.000004}
+    - name: krisaRig_01:Chest_M
+      parentName: krisaRig_01:Spine2_M
+      position: {x: -0.025235249, y: -0.000000007273047, z: 0.0000000010128133}
+      rotation: {x: -0.000000028515593, y: -0.000000030394453, z: -0.0111507485, w: 0.99993783}
+      scale: {x: 1.0000026, y: 1.0000017, z: 0.9999967}
+    - name: krisaRig_01:Scapula_R
+      parentName: krisaRig_01:Chest_M
+      position: {x: -0.017387815, y: 0.001414563, z: -0.090033576}
+      rotation: {x: 0.0070023886, y: -0.72778225, z: -0.0014784783, w: 0.685771}
+      scale: {x: 1.0000203, y: 1.0000049, z: 1.0000033}
+    - name: krisaRig_01:Shoulder_R
+      parentName: krisaRig_01:Scapula_R
+      position: {x: -0.023619456, y: 0.0000000035762786, z: 0.000000009536743}
+      rotation: {x: -0.011866972, y: -0.12115507, z: 0.01629214, w: 0.992429}
+      scale: {x: 1.0000091, y: 1.0000107, z: 1.0000104}
+    - name: krisaRig_01:ShoulderPart1_R
+      parentName: krisaRig_01:Shoulder_R
+      position: {x: -0.009543538, y: 0.000000008940696, z: 0.000000004172325}
+      rotation: {x: 0.0000001424923, y: 0.11502162, z: -0.006189153, w: 0.9933438}
+      scale: {x: 1.0000051, y: 1.0000025, z: 1.0000026}
+    - name: krisaRig_01:ShoulderPart2_R
+      parentName: krisaRig_01:ShoulderPart1_R
+      position: {x: -0.009543532, y: 0.0000000035762786, z: -0.0000000020861626}
+      rotation: {x: -0.000000046566132, y: -0.0000001490116, z: 0.00000011082737, w: 1}
+      scale: {x: 1.0000004, y: 0.99999946, z: 1.0000005}
+    - name: krisaRig_01:Elbow_R
+      parentName: krisaRig_01:ShoulderPart2_R
+      position: {x: -0.009543525, y: 0.0000000077486035, z: -0.0000000035762786}
+      rotation: {x: 0.002007627, y: 0.021650428, z: -0.03805567, w: 0.99903905}
+      scale: {x: 1.0000118, y: 1.0000122, z: 1.0000058}
+    - name: krisaRig_01:Wrist_R
+      parentName: krisaRig_01:Elbow_R
+      position: {x: -0.01924647, y: 0.000000002682209, z: -0.000000001490116}
+      rotation: {x: 0.000038183807, y: -0.00039321356, z: 0.020289266, w: 0.9997941}
+      scale: {x: 1.0000203, y: 1.0000173, z: 1.0000137}
+    - name: krisaRig_01:MiddleFinger1_R
+      parentName: krisaRig_01:Wrist_R
+      position: {x: -0.019068554, y: 0.000000007599592, z: 0.0000000061839818}
+      rotation: {x: 0.025197493, y: -0.07853046, z: 0.022162668, w: 0.99634683}
+      scale: {x: 1.0000387, y: 0.99999756, z: 0.9999543}
+    - name: krisaRig_01:MiddleFinger2_R
+      parentName: krisaRig_01:MiddleFinger1_R
+      position: {x: -0.012639272, y: 0.000000005364418, z: 0.000000009611249}
+      rotation: {x: 0.00031991652, y: -0.040029228, z: -0.000012250608, w: 0.99919844}
+      scale: {x: 1.000056, y: 1.0000023, z: 0.9999579}
+    - name: krisaRig_01:MiddleFinger3_R
+      parentName: krisaRig_01:MiddleFinger2_R
+      position: {x: -0.0058834343, y: 0.0000000020861626, z: -0.0000000052154063}
+      rotation: {x: 0.0004653905, y: -0.040050298, z: -0.000022828179, w: 0.9991976}
+      scale: {x: 1.0000999, y: 1.0000074, z: 0.99992317}
+    - name: krisaRig_01:MiddleFinger4_R
+      parentName: krisaRig_01:MiddleFinger3_R
+      position: {x: -0.007371626, y: -0.0000000011920929, z: 0.000000019222497}
+      rotation: {x: -0.000000038911807, y: 0.00000010430809, z: 0.00000006955085, w: 1}
+      scale: {x: 1.0000032, y: 1.0000006, z: 0.9999997}
+    - name: krisaRig_01:ThumbFinger1_R
+      parentName: krisaRig_01:Wrist_R
+      position: {x: -0.0076749013, y: 0.012449109, z: -0.00085969747}
+      rotation: {x: -0.5367476, y: 0.1681155, z: -0.3370939, w: 0.754988}
+      scale: {x: 1.0000418, y: 0.9999222, z: 1.0000359}
+    - name: krisaRig_01:ThumbFinger2_R
+      parentName: krisaRig_01:ThumbFinger1_R
+      position: {x: -0.008509563, y: 0.000000020861625, z: 0}
+      rotation: {x: -0.0000006556507, y: -0.037737153, z: -0.0000027343615, w: 0.9992878}
+      scale: {x: 0.99999434, y: 1.0000079, z: 1.0000191}
+    - name: krisaRig_01:ThumbFinger3_R
+      parentName: krisaRig_01:ThumbFinger2_R
+      position: {x: -0.005531667, y: 0.0000000068917867, z: 0.000000008493662}
+      rotation: {x: -0.00000040593486, y: -0.037733965, z: -0.0000008352529, w: 0.99928784}
+      scale: {x: 1.0000085, y: 1.0000061, z: 1.000001}
+    - name: krisaRig_01:ThumbFinger4_R
+      parentName: krisaRig_01:ThumbFinger3_R
+      position: {x: -0.007970924, y: -0.000000002980232, z: -0.0000000035762786}
+      rotation: {x: -0.00000012453621, y: -0.000000044703473, z: 0.00000024810086, w: 1}
+      scale: {x: 0.9999972, y: 1.000001, z: 1.0000013}
+    - name: krisaRig_01:IndexFinger1_R
+      parentName: krisaRig_01:Wrist_R
+      position: {x: -0.019267907, y: 0.010287305, z: 0.0009441736}
+      rotation: {x: -0.03597801, y: -0.07819876, z: -0.01736261, w: 0.99613714}
+      scale: {x: 1.0000552, y: 0.9999909, z: 0.99994355}
+    - name: krisaRig_01:IndexFinger2_R
+      parentName: krisaRig_01:IndexFinger1_R
+      position: {x: -0.0117794275, y: 0.0000000035762786, z: 0.000000022947788}
+      rotation: {x: 0.000016983588, y: -0.041199815, z: -0.00029434433, w: 0.99915093}
+      scale: {x: 1.0000416, y: 1.0000088, z: 0.99997616}
+    - name: krisaRig_01:IndexFinger3_R
+      parentName: krisaRig_01:IndexFinger2_R
+      position: {x: -0.0053333966, y: 0.000000006556511, z: -0.000000017285346}
+      rotation: {x: -0.014244206, y: -0.03992152, z: 0.0007527561, w: 0.99910104}
+      scale: {x: 1.0000834, y: 0.9999984, z: 0.9999114}
+    - name: krisaRig_01:IndexFinger4_R
+      parentName: krisaRig_01:IndexFinger3_R
+      position: {x: -0.008316566, y: 0.0000000035762786, z: 0.000000019967555}
+      rotation: {x: -0.0000000875443, y: 0.000000014901158, z: -0.00000017462294, w: 1}
+      scale: {x: 1.0000035, y: 0.9999984, z: 0.9999982}
+    - name: krisaRig_01:PinkyFinger1_R
+      parentName: krisaRig_01:Wrist_R
+      position: {x: -0.017773721, y: -0.011146373, z: -0.0008335644}
+      rotation: {x: 0.00063991453, y: -0.060207706, z: 0.056759626, w: 0.99657065}
+      scale: {x: 1.0000235, y: 1.000001, z: 0.99997383}
+    - name: krisaRig_01:PinkyFinger2_R
+      parentName: krisaRig_01:PinkyFinger1_R
+      position: {x: -0.009277796, y: -0.00000000834465, z: -0.000000008642673}
+      rotation: {x: 0.0023123273, y: -0.039760396, z: 0.0001323071, w: 0.99920654}
+      scale: {x: 1.000046, y: 1.0000035, z: 0.9999546}
+    - name: krisaRig_01:PinkyFinger3_R
+      parentName: krisaRig_01:PinkyFinger2_R
+      position: {x: -0.006101515, y: -0.0000000011920929, z: 0.000000004172325}
+      rotation: {x: 0.018729936, y: -0.040738057, z: -0.0007060962, w: 0.9989941}
+      scale: {x: 1.0000575, y: 1.0000019, z: 0.99994516}
+    - name: krisaRig_01:PinkyFinger4_R
+      parentName: krisaRig_01:PinkyFinger3_R
+      position: {x: -0.0065117804, y: -0.000000005960464, z: 0.000000004172325}
+      rotation: {x: 0.000000035390244, y: 0.000000055879333, z: -0.000000025029285, w: 1}
+      scale: {x: 1.0000069, y: 1.0000027, z: 1.0000025}
+    - name: krisaRig_01:Head_M
+      parentName: krisaRig_01:Chest_M
+      position: {x: -0.07512546, y: -8.376082e-10, z: 0.0000000028731302}
+      rotation: {x: -7.9276674e-10, y: -8.2227913e-10, z: 0.027097907, w: 0.99963284}
+      scale: {x: 0.99999946, y: 1, z: 1.0000025}
+    - name: krisaRig_01:HeadEnd_M
+      parentName: krisaRig_01:Head_M
+      position: {x: -0.13444589, y: -0.0000000014877878, z: 0.0000000058021397}
+      rotation: {x: -0, y: -0, z: -6.5187545e-19, w: 1}
+      scale: {x: 1.0000029, y: 1.0000033, z: 1.0000057}
+    - name: krisaRig_01:Eye_R
+      parentName: krisaRig_01:Head_M
+      position: {x: -0.09733711, y: 0.03852611, z: -0.038409255}
+      rotation: {x: -0.21502542, y: -0.13097991, z: -0.49740216, w: 0.8301803}
+      scale: {x: 1.0000073, y: 1.0000037, z: 1.0000033}
+    - name: krisaRig_01:Eye_L
+      parentName: krisaRig_01:Head_M
+      position: {x: -0.09733708, y: 0.03852611, z: 0.038409274}
+      rotation: {x: -0.21502537, y: -0.13098013, z: 0.49740222, w: -0.83018035}
+      scale: {x: 1.0000091, y: 1.0000182, z: 1.0000168}
+    - name: krisaRig_01:joint2_M
+      parentName: krisaRig_01:Chest_M
+      position: {x: 0.020001514, y: -0.1639973, z: -5.681068e-10}
+      rotation: {x: -0.000000047478636, y: 0.000000057220614, z: 0.03075504, w: 0.9995269}
+      scale: {x: 0.9999946, y: 0.9999961, z: 0.9999948}
+    - name: krisaRig_01:joint3_M
+      parentName: krisaRig_01:joint2_M
+      position: {x: -0.069009475, y: 0.000000034309576, z: 0.0000000031664966}
+      rotation: {x: -3.5527133e-15, y: -0, z: 2.7167565e-15, w: 1}
+      scale: {x: 1.0000004, y: 0.9999992, z: 0.9999978}
+    - name: krisaRig_01:joint4_M
+      parentName: krisaRig_01:joint3_M
+      position: {x: -0.06729236, y: -0.0000000063479635, z: 0.0000000031292438}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999977, z: 0.99999946}
+    - name: krisaRig_01:joint5_M
+      parentName: krisaRig_01:joint4_M
+      position: {x: -0.054611053, y: 0.000000007199542, z: 0.0000000025331974}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.9999998}
+    - name: krisaRig_01:Scapula_L
+      parentName: krisaRig_01:Chest_M
+      position: {x: -0.017387811, y: 0.0014145472, z: 0.09003358}
+      rotation: {x: 0.7276485, y: 0.0069985786, z: 0.6859129, w: 0.0014789889}
+      scale: {x: 0.9998876, y: 0.9999667, z: 0.9997361}
+    - name: krisaRig_01:Shoulder_L
+      parentName: krisaRig_01:Scapula_L
+      position: {x: 0.023622643, y: -0.000000081658364, z: 0.00000921607}
+      rotation: {x: -0.011873567, y: -0.121266514, z: 0.01631516, w: 0.99241495}
+      scale: {x: 1.0000043, y: 0.99999714, z: 1.0000197}
+    - name: krisaRig_01:ShoulderPart1_L
+      parentName: krisaRig_01:Shoulder_L
+      position: {x: 0.009547439, y: -0.0000005994737, z: 0.0000022445129}
+      rotation: {x: 0.0000075967955, y: 0.11496691, z: -0.006188008, w: 0.99335}
+      scale: {x: 0.9999984, y: 1.0000052, z: 1.0000013}
+    - name: krisaRig_01:ShoulderPart2_L
+      parentName: krisaRig_01:ShoulderPart1_L
+      position: {x: 0.009547439, y: -0.0000005990267, z: 0.00000080942175}
+      rotation: {x: -0.000000046091188, y: -0.00000005959736, z: 0.00000012223958, w: 1}
+      scale: {x: 1.0000056, y: 1.0000017, z: 0.9999995}
+    - name: krisaRig_01:Elbow_L
+      parentName: krisaRig_01:ShoulderPart2_L
+      position: {x: 0.009547442, y: -0.00000060379506, z: 0.0000008070841}
+      rotation: {x: -0.002012091, y: -0.021659458, z: 0.038119096, w: -0.99903643}
+      scale: {x: 1.0001442, y: 0.99987745, z: 1.0000068}
+    - name: krisaRig_01:Wrist_L
+      parentName: krisaRig_01:Elbow_L
+      position: {x: 0.019254308, y: 0.0000016999244, z: 0.0000016025826}
+      rotation: {x: -0.000036408244, y: 0.00039273422, z: -0.020305758, w: -0.99979377}
+      scale: {x: 1.0000657, y: 0.9999538, z: 1.0000007}
+    - name: krisaRig_01:MiddleFinger1_L
+      parentName: krisaRig_01:Wrist_L
+      position: {x: 0.019076373, y: 0.0000010502338, z: 0.0000016172603}
+      rotation: {x: -0.02519663, y: 0.07860837, z: -0.022197565, w: -0.9963399}
+      scale: {x: 1.0011387, y: 0.99992585, z: 0.99894357}
+    - name: krisaRig_01:MiddleFinger2_L
+      parentName: krisaRig_01:MiddleFinger1_L
+      position: {x: 0.012644453, y: 0.00000005483627, z: -0.00000009685755}
+      rotation: {x: 0.00031949373, y: -0.040280104, z: -0.000011751188, w: 0.9991884}
+      scale: {x: 1.0007994, y: 1.000009, z: 0.9992267}
+    - name: krisaRig_01:MiddleFinger3_L
+      parentName: krisaRig_01:MiddleFinger2_L
+      position: {x: 0.0058857147, y: 0.000000027418135, z: -0.00000089704986}
+      rotation: {x: 0.00046568766, y: -0.040379062, z: -0.0000230881, w: 0.9991843}
+      scale: {x: 1.0023086, y: 1.0000017, z: 0.99769646}
+    - name: krisaRig_01:MiddleFinger4_L
+      parentName: krisaRig_01:MiddleFinger3_L
+      position: {x: 0.0073742187, y: 0.000000029802322, z: -0.0000018799304}
+      rotation: {x: 0.000000014406389, y: -0.000023387362, z: 0.000000012634694, w: 1}
+      scale: {x: 1.0000101, y: 1.0000137, z: 1.0000073}
+    - name: krisaRig_01:ThumbFinger1_L
+      parentName: krisaRig_01:Wrist_L
+      position: {x: 0.0076780524, y: -0.0124487, z: 0.00086036284}
+      rotation: {x: -0.5366544, y: 0.16812988, z: -0.3372902, w: 0.75496346}
+      scale: {x: 1.0000795, y: 0.9982095, z: 1.0017315}
+    - name: krisaRig_01:ThumbFinger2_L
+      parentName: krisaRig_01:ThumbFinger1_L
+      position: {x: 0.008511221, y: 0.0000014938041, z: 0.000002823025}
+      rotation: {x: -0.000009000296, y: -0.03754226, z: -0.000016689291, w: 0.9992951}
+      scale: {x: 1.0003026, y: 1.0000069, z: 0.9997287}
+    - name: krisaRig_01:ThumbFinger3_L
+      parentName: krisaRig_01:ThumbFinger2_L
+      position: {x: 0.005533191, y: 0.0000011345371, z: 0.000001956336}
+      rotation: {x: -0.000016589105, y: -0.03767858, z: -0.000013599561, w: 0.99928993}
+      scale: {x: 0.9976919, y: 1.0000013, z: 1.002332}
+    - name: krisaRig_01:ThumbFinger4_L
+      parentName: krisaRig_01:ThumbFinger3_L
+      position: {x: 0.007973676, y: 0.0000018524378, z: 0.0000021615624}
+      rotation: {x: 0.000000017175802, y: -0.000029213716, z: -0.000000057119827, w: 1}
+      scale: {x: 0.99999905, y: 0.9999984, z: 0.9999967}
+    - name: krisaRig_01:IndexFinger1_L
+      parentName: krisaRig_01:Wrist_L
+      position: {x: 0.01927581, y: -0.010286262, z: -0.0009425325}
+      rotation: {x: -0.035974614, y: -0.078298174, z: -0.017398894, w: 0.99612874}
+      scale: {x: 1.0012742, y: 1.0000347, z: 0.9987085}
+    - name: krisaRig_01:IndexFinger2_L
+      parentName: krisaRig_01:IndexFinger1_L
+      position: {x: 0.011784104, y: 0.0000012540817, z: -0.00000027708708}
+      rotation: {x: 0.000017963348, y: -0.04141221, z: -0.00029467462, w: 0.99914217}
+      scale: {x: 1.0005437, y: 1.0000054, z: 0.99945354}
+    - name: krisaRig_01:IndexFinger3_L
+      parentName: krisaRig_01:IndexFinger2_L
+      position: {x: 0.005335413, y: 0.0000005590916, z: -0.0000008931756}
+      rotation: {x: -0.014249372, y: -0.04024135, z: 0.00075924705, w: 0.99908805}
+      scale: {x: 1.0020876, y: 0.9999975, z: 0.99794817}
+    - name: krisaRig_01:IndexFinger4_L
+      parentName: krisaRig_01:IndexFinger3_L
+      position: {x: 0.0083194375, y: 0.00000086188317, z: -0.000002116263}
+      rotation: {x: -0.000000021420414, y: -0.000023610884, z: -0.000000097905264, w: 1}
+      scale: {x: 1.0000025, y: 1.0000018, z: 1.0000051}
+    - name: krisaRig_01:PinkyFinger1_L
+      parentName: krisaRig_01:Wrist_L
+      position: {x: 0.01778101, y: 0.011147378, z: 0.0008350779}
+      rotation: {x: 0.0006353556, y: -0.06025429, z: 0.056828205, w: 0.996564}
+      scale: {x: 1.0008087, y: 0.9998519, z: 0.99935687}
+    - name: krisaRig_01:PinkyFinger2_L
+      parentName: krisaRig_01:PinkyFinger1_L
+      position: {x: 0.00928165, y: -0.00000042200088, z: 0.00000026762484}
+      rotation: {x: 0.0023104681, y: -0.039950024, z: 0.00013483696, w: 0.99919903}
+      scale: {x: 1.0008543, y: 1.0000066, z: 0.99917364}
+    - name: krisaRig_01:PinkyFinger3_L
+      parentName: krisaRig_01:PinkyFinger2_L
+      position: {x: 0.006103952, y: -0.00000027418136, z: -0.00000052690507}
+      rotation: {x: 0.018728219, y: -0.040981308, z: -0.0007102246, w: 0.99898416}
+      scale: {x: 1.0015216, y: 0.9999904, z: 0.99850845}
+    - name: krisaRig_01:PinkyFinger4_L
+      parentName: krisaRig_01:PinkyFinger3_L
+      position: {x: 0.006514277, y: -0.0000003218651, z: -0.000001231432}
+      rotation: {x: 0.000000026077023, y: -0.000021379434, z: -0.000000081257866, w: 1}
+      scale: {x: 1.0000125, y: 1.0000151, z: 1.0000134}
+    - name: krisaRig_01:Hip_L
+      parentName: krisaRig_01:Root_M
+      position: {x: 0.005679431, y: 0.0005385302, z: 0.068815894}
+      rotation: {x: -0.9970763, y: -0.028198719, z: -0.023363605, w: 0.06706655}
+      scale: {x: 1.0000054, y: 1.0000033, z: 0.9999996}
+    - name: krisaRig_01:Knee_L
+      parentName: krisaRig_01:Hip_L
+      position: {x: 0.01770245, y: -0.000000010952353, z: -0.00000009197741}
+      rotation: {x: 0.00000027567145, y: 0.00000013655516, z: 0.06009365, w: 0.9981928}
+      scale: {x: 0.9999997, y: 1.0000005, z: 0.99999994}
+    - name: krisaRig_01:Ankle_L
+      parentName: krisaRig_01:Knee_L
+      position: {x: 0.00971233, y: -0.0000000023841857, z: -0.00000004887581}
+      rotation: {x: 0.072191685, y: 0.01910364, z: 0.030786587, w: -0.99673253}
+      scale: {x: 1.0000106, y: 1.0000033, z: 1.0000106}
+    - name: krisaRig_01:Toes_L
+      parentName: krisaRig_01:Ankle_L
+      position: {x: 0.0122200595, y: -0.025631001, z: -0.000000066439604}
+      rotation: {x: 0.0027689629, y: 0.0026505433, z: -0.6900186, w: 0.7237815}
+      scale: {x: 1.0000008, y: 0.9999996, z: 0.9999997}
+    - name: krisaRig_01:ToesEnd_L
+      parentName: krisaRig_01:Toes_L
+      position: {x: 0.021355968, y: -0.0000000011315568, z: -0.000000026562338}
+      rotation: {x: 0.00000012037341, y: 0.0000016824338, z: -0.000000011027621, w: 1}
+      scale: {x: 0.9999996, y: 1.0000064, z: 1.0000018}
+    - name: krisaRig_01:KRISA:Group8500
+      parentName: ideal(Clone)
+      position: {x: -6.4520085e-25, y: -0.0000000040861776, z: -4.8428833e-10}
+      rotation: {x: -4.3297796e-17, y: 0.7071067, z: 0.7071068, w: -4.329781e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface94
+      parentName: ideal(Clone)
+      position: {x: -6.4520085e-25, y: -0.0000000040861776, z: -4.8428833e-10}
+      rotation: {x: -4.3297796e-17, y: 0.7071067, z: 0.7071068, w: -4.329781e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface76
+      parentName: ideal(Clone)
+      position: {x: 0.000000006640329, y: -0.0000000023562459, z: 5.9604605e-10}
+      rotation: {x: 0.00000001745143, y: 0.7071067, z: 0.7071068, w: -0.000000016134344}
+      scale: {x: 0.01, y: 0.01, z: 0.010000001}
+    - name: krisaRig_01:polySurface84
+      parentName: ideal(Clone)
+      position: {x: -0.0000000018847641, y: -0.00000000402797, z: 2.2351676e-10}
+      rotation: {x: 8.4375995e-10, y: 0.7071067, z: 0.7071068, w: -0.0000000011730324}
+      scale: {x: 0.01, y: 0.009999998, z: 0.010000001}
+    - name: krisaRig_01:polySurface125
+      parentName: ideal(Clone)
+      position: {x: -3.705769e-24, y: 7.3857455e-11, z: 4.558535e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface80
+      parentName: ideal(Clone)
+      position: {x: 0.0000000029802318, y: -0.000000019073486, z: -0.000000004470351}
+      rotation: {x: 0.0000000052683564, y: 0.7071067, z: 0.7071068, w: 0.000000005268356}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface121
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface113
+      parentName: ideal(Clone)
+      position: {x: -3.705769e-24, y: 7.3857455e-11, z: 4.558535e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:pSphere5
+      parentName: ideal(Clone)
+      position: {x: -1.0587912e-24, y: 7.385744e-11, z: 1.3448649e-10}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface35
+      parentName: ideal(Clone)
+      position: {x: 3.7809492e-10, y: -1.7808534e-11, z: 0.0000000016741795}
+      rotation: {x: 2.3984367e-15, y: 0.7071067, z: 0.7071068, w: 1.7703993e-15}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface64
+      parentName: ideal(Clone)
+      position: {x: 3.7809492e-10, y: -1.7808852e-11, z: 0.0000000016741795}
+      rotation: {x: 2.8694643e-15, y: 0.7071067, z: 0.7071068, w: 1.6133903e-15}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface91
+      parentName: ideal(Clone)
+      position: {x: 3.7809492e-10, y: -1.7808852e-11, z: 0.0000000016741795}
+      rotation: {x: 2.8694643e-15, y: 0.7071067, z: 0.7071068, w: 1.6133903e-15}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface77
+      parentName: ideal(Clone)
+      position: {x: -0.0000000031292438, y: -0.0000000053644174, z: -0.0000000029802327}
+      rotation: {x: 0.0000000118538015, y: 0.7071067, z: 0.7071068, w: -0.000000009219625}
+      scale: {x: 0.01, y: 0.01, z: 0.010000001}
+    - name: krisaRig_01:polySurface95
+      parentName: ideal(Clone)
+      position: {x: -6.4520085e-25, y: -0.0000000040861776, z: -4.8428833e-10}
+      rotation: {x: -4.3297796e-17, y: 0.7071067, z: 0.7071068, w: -4.329781e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface126
+      parentName: ideal(Clone)
+      position: {x: -3.705769e-24, y: 7.3857455e-11, z: 4.558535e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface114
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface128
+      parentName: ideal(Clone)
+      position: {x: -0.000000009350479, y: 0.000000002766028, z: -7.450534e-11}
+      rotation: {x: -0.0000000014817246, y: 0.7071067, z: 0.7071068, w: 0.000000004115904}
+      scale: {x: 0.01, y: 0.009999998, z: 0.01}
+    - name: krisaRig_01:polySurface86
+      parentName: ideal(Clone)
+      position: {x: -2.646978e-25, y: 0.000000008959323, z: 1.4901307e-10}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface75
+      parentName: ideal(Clone)
+      position: {x: 0.000000006640329, y: 0.000000005988404, z: 4.470358e-10}
+      rotation: {x: 0.00000001745143, y: 0.7071067, z: 0.7071068, w: -0.000000016134344}
+      scale: {x: 0.01, y: 0.01, z: 0.010000001}
+    - name: krisaRig_01:polySurface90
+      parentName: ideal(Clone)
+      position: {x: 0.0000000011674764, y: -7.745008e-12, z: 0.000000004056055}
+      rotation: {x: 5.695632e-15, y: 0.7071067, z: 0.7071068, w: 1.07199245e-14}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface78
+      parentName: ideal(Clone)
+      position: {x: 0.0000000018870923, y: -0.000000003771856, z: -6.145133e-16}
+      rotation: {x: 2.4695426e-10, y: 0.7071067, z: 0.7071068, w: 8.2318076e-11}
+      scale: {x: 0.01, y: 0.009999998, z: 0.010000001}
+    - name: krisaRig_01:polySurface92
+      parentName: ideal(Clone)
+      position: {x: 3.7809492e-10, y: -1.7808534e-11, z: 0.0000000016741795}
+      rotation: {x: 2.3984367e-15, y: 0.7071067, z: 0.7071068, w: 1.7703993e-15}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface115
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface127
+      parentName: ideal(Clone)
+      position: {x: 0.000000005066395, y: -0.000000001192093, z: 0.0000000011920925}
+      rotation: {x: -0.000000007902535, y: 0.7071067, z: 0.7071068, w: 0.0000000079025355}
+      scale: {x: 0.01, y: 0.009999998, z: 0.010000001}
+    - name: krisaRig_01:polySurface85
+      parentName: ideal(Clone)
+      position: {x: -2.646978e-25, y: 0.000000008959323, z: 1.4901307e-10}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface124
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface32
+      parentName: ideal(Clone)
+      position: {x: 0.000000006640329, y: 0.000000005988404, z: 4.470358e-10}
+      rotation: {x: 0.00000001745143, y: 0.7071067, z: 0.7071068, w: -0.000000016134344}
+      scale: {x: 0.01, y: 0.01, z: 0.010000001}
+    - name: krisaRig_01:polySurface93
+      parentName: ideal(Clone)
+      position: {x: 3.7809492e-10, y: -1.7808534e-11, z: 0.0000000016741795}
+      rotation: {x: 2.3984367e-15, y: 0.7071067, z: 0.7071068, w: 1.7703993e-15}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface79
+      parentName: ideal(Clone)
+      position: {x: 0.0000000029802318, y: -0.000000019073486, z: -0.000000004470351}
+      rotation: {x: 0.0000000052683564, y: 0.7071067, z: 0.7071068, w: 0.000000005268356}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface103
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface108
+      parentName: ideal(Clone)
+      position: {x: -5.2939552e-24, y: 7.385745e-11, z: 7.772054e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface74
+      parentName: ideal(Clone)
+      position: {x: 0.0000000060442833, y: 0.0000000053923577, z: 5.2154153e-10}
+      rotation: {x: 0.00000001745143, y: 0.7071067, z: 0.7071068, w: -0.000000016134344}
+      scale: {x: 0.01, y: 0.01, z: 0.010000001}
+    - name: krisaRig_01:polySurface81
+      parentName: ideal(Clone)
+      position: {x: 0.0000000029802318, y: -0.000000019073486, z: -0.000000004470351}
+      rotation: {x: 0.0000000052683564, y: 0.7071067, z: 0.7071068, w: 0.000000005268356}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: krisaRig_01:polySurface120
+      parentName: ideal(Clone)
+      position: {x: -3.705769e-24, y: 7.3857455e-11, z: 4.558535e-11}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

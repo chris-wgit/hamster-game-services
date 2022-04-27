@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56ffd4e3124cf1c43acfeef23d038ff9, type: 3}
+  m_Name: Deagle
+  m_EditorClassIdentifier: 
+  id: deagle
+  weaponName: Deagle
+  description: 
+  icon: {fileID: 21300000, guid: c61b8bc41069bca498ab5dbfde1fcf41, type: 3}
+  weaponPrefab_R: {fileID: 4643793552449130856, guid: 8825324b85ed4444692af827d71e98e7, type: 3}
+  weaponPrefab_L: {fileID: 3938096541639592641, guid: b20f580f86a8be840ba36571f53b66b8, type: 3}
+  overrideAnimator: {fileID: 22100000, guid: 443b1ce67ac84a7488c23dd1d30fc57c, type: 2}
+  weaponSkill: {fileID: 11400000, guid: 69e367c7f2ce20a48b22e7e26bdf6b35, type: 2}
+  weaponUltimate: {fileID: 11400000, guid: 44bc7a80cc6f05b4cad684b6825df00b, type: 2}

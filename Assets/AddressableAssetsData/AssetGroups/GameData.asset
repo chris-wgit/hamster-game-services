@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  m_GroupName: GameData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 15e951125aba679419b5fa152a6481f4
+  m_SerializeEntries:
+  - m_GUID: 7b669fc1d1e67904898b8c806c640478
+    m_Address: Assets/ScriptableObject/PlayerData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterDataSO
+    m_MainAsset: {fileID: 11400000, guid: 7b669fc1d1e67904898b8c806c640478, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7b669fc1d1e67904898b8c806c640478, type: 2}
+  - m_GUID: 90bb83c0e1072bf43921ae8fba6906df
+    m_Address: Assets/ScriptableObject/Weapon Library.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterDataSO
+    m_MainAsset: {fileID: 11400000, guid: 90bb83c0e1072bf43921ae8fba6906df, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 90bb83c0e1072bf43921ae8fba6906df, type: 2}
+  - m_GUID: 4717535e87b63ec4ab63fbc7636513ee
+    m_Address: Assets/ScriptableObject/CharacterLibrary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterDataSO
+    m_MainAsset: {fileID: 11400000, guid: 4717535e87b63ec4ab63fbc7636513ee, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4717535e87b63ec4ab63fbc7636513ee, type: 2}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3b84ae4d3e73d764ea9fea9ebaa7a748, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 036befc09755327449c4a1e6fc098ee4, type: 2}
+    - {fileID: 11400000, guid: d69b4c90073b4644d9bdb8ba17bbb2a0, type: 2}

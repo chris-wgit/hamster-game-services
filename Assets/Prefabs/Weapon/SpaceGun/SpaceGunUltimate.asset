@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2154b146b4bfe44a1040f949a337b7, type: 3}
+  m_Name: SpaceGunUltimate
+  m_EditorClassIdentifier: 
+  skillName: Space Gun Ultimate
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 1
+  initialCharge: 0
+  cooldown: 17
+  actionDuration: 0.5
+  characterState: 5
+  OnSpawnVFX: {fileID: 1460800425478370, guid: 3b23817153cedba4a9fc3d42c2e1630c, type: 3}
+  OnSpawnSFX: {fileID: 8300000, guid: 3fb5a79539ba2554285be8430eaa1165, type: 3}
+  OnDespawnVFX: {fileID: 121496, guid: 5e8a137808d7d374487f34e236c723db, type: 3}
+  OnDespawnSFX: {fileID: 8300000, guid: b0e8b43cb9cab9b4e901e892a4b35b0f, type: 3}
+  shakeFeedbackPower: 0.8
+  damagedObject: {fileID: 8488168453189459172, guid: 6c16087485e1a574ba867effc5e34362, type: 3}
+  damage: 1850
+  despawnOnColliderCharacter: 1
+  despawnOnColliderEnvironment: 1
+  range: 80
+  speed: 18

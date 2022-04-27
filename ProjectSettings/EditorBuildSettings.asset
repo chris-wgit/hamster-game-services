@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene/AuthenticateScene.unity
+    guid: f1fb500a70a0dc349b11ff382e3038c8
+  - enabled: 1
+    path: Assets/Scenes/MenuScene/MenuScene.unity
+    guid: 31f0c5c5b93367347b126203b76113bc
+  - enabled: 1
+    path: Assets/Scenes/MenuScene/CharacterEquipment.unity
+    guid: 7cfbaa4c0ce18bd48870094acb02373d
+  - enabled: 1
+    path: Assets/Scenes/GameScene/Game_DeathMatch_Solo.unity
+    guid: 67d99b688ccd095479d5ae55ccb89034
+  - enabled: 1
+    path: Assets/Scenes/GameScene/Game_DeathMatch_Team.unity
+    guid: bfdc7959d92dfaa449261adf80668c6c
+  - enabled: 1
+    path: Assets/Scenes/GameScene/Game_Training.unity
+    guid: d9d674f024b5c3049919375fe89698be
+  - enabled: 1
+    path: Assets/Scenes/GameScene/Forest Scene.unity
+    guid: b9942ca5b13f9d143a23bc13ad06d55f
+  - enabled: 1
+    path: Assets/Scenes/Sandbox/PhotonSandbox.unity
+    guid: e10e2ff9b60b83a438a7538b467e12af
+  - enabled: 1
+    path: Assets/Scenes/GameScene/Grass Scene.unity
+    guid: bffc53989b1230f4eb02f4066ec3fa14
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 4f25df16ee374454fb2359c5e2be47c0, type: 2}

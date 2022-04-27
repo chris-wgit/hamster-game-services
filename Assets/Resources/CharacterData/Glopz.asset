@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 725574791844c094d8bd455d0cd0538e, type: 3}
+  m_Name: Glopz
+  m_EditorClassIdentifier: 
+  id: 2
+  characterName: Glopz
+  description: 
+  Icon: {fileID: 2201002981321395600, guid: 53e29ea7a5d70284bbfa8ae8b26c0f64, type: 3}
+  characterPrefab: {fileID: 6659168770434978205, guid: 14355747097af4d149759dd279502da1, type: 3}
+  characterMesh: {fileID: 3073082290567806148, guid: 75d25abba98994be280602410381d4ec, type: 3}
+  health: 5400
+  movementSpeed: 29
+  weaponData: {fileID: 11400000, guid: 84aed63e82d2afd4ca353ab9527b2435, type: 2}
+  weaponLibrary: {fileID: 11400000, guid: 90bb83c0e1072bf43921ae8fba6906df, type: 2}
+  additionSkill: {fileID: 11400000, guid: 94969d5134a50d8419523bc5ecec9f3e, type: 2}
+  OnDespawnFX: {fileID: 140474, guid: 56e3e0c71ef4cbe4dbda074c547d7bd4, type: 3}

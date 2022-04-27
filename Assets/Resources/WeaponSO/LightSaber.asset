@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2c110138516dc42a3e0f41f785c9ef, type: 3}
+  m_Name: LightSaber
+  m_EditorClassIdentifier: 
+  id: lightsaber
+  weaponName: Light Saber
+  description: 
+  icon: {fileID: 21300000, guid: 88599f9d689202b438b676ff4662f427, type: 3}
+  weaponPrefab_R: {fileID: 5698337497955822788, guid: b1f864c9f13a4b2409a54669baf8f3c8, type: 3}
+  weaponPrefab_L: {fileID: 0}
+  overrideAnimator: {fileID: 22100000, guid: 2f245895e036001419db7f760dd1cb69, type: 2}
+  weaponSkill: {fileID: 11400000, guid: bdc9d38f4b3c0aa49b32d3a76d942a4f, type: 2}
+  weaponUltimate: {fileID: 11400000, guid: f7bb7aeaf122ace469ecd19d4af05c8a, type: 2}

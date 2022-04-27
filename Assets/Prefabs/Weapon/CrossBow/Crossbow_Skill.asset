@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2154b146b4bfe44a1040f949a337b7, type: 3}
+  m_Name: Crossbow_Skill
+  m_EditorClassIdentifier: 
+  skillName: CrossBow Arrow
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 3
+  initialCharge: 1
+  cooldown: 1.7
+  actionDuration: 0.5
+  characterState: 4
+  OnSpawnVFX: {fileID: 1005800579108804, guid: a3da5c74149a9994cb19458460356cc4, type: 3}
+  OnSpawnSFX: {fileID: 8300000, guid: 2b2b54120890c0a448a56d181a3b6f71, type: 3}
+  OnDespawnVFX: {fileID: 1344780025213116, guid: cf870bd1ddb489a49806f50c4c73a281, type: 3}
+  OnDespawnSFX: {fileID: 8300000, guid: dafd7c4aa68181841b7c09b4bd3b1077, type: 3}
+  shakeFeedbackPower: 0
+  damagedObject: {fileID: 6705577256903112784, guid: aac034b16a71a8a4a92141240b00cf9d, type: 3}
+  damage: 1120
+  despawnOnColliderCharacter: 1
+  despawnOnColliderEnvironment: 1
+  range: 65
+  speed: 15

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f43d63c881fbf44aae94cffdf31922, type: 3}
+  m_Name: KatanaAttack
+  m_EditorClassIdentifier: 
+  skillName: Katana Attack
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 4
+  initialCharge: 1
+  cooldown: 1.8
+  actionDuration: 0.5
+  characterState: 4
+  OnSpawnVFX: {fileID: 0}
+  OnSpawnSFX: {fileID: 8300000, guid: 7df1075947528c445b8d6544b45bfe04, type: 3}
+  OnDespawnVFX: {fileID: 0}
+  OnDespawnSFX: {fileID: 0}
+  shakeFeedbackPower: 0
+  damagedObject: {fileID: 8078168218313964268, guid: e8628641aa202c94b8e07aad5813b522, type: 3}
+  damage: 1050
+  despawnOnColliderCharacter: 0
+  despawnOnColliderEnvironment: 1
+  lifeTime: 1

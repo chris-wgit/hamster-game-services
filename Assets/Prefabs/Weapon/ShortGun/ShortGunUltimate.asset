@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2154b146b4bfe44a1040f949a337b7, type: 3}
+  m_Name: ShortGunUltimate
+  m_EditorClassIdentifier: 
+  skillName: 
+  description: 
+  icon: {fileID: 0}
+  maxCharge: 1
+  initialCharge: 0
+  cooldown: 16
+  actionDuration: 0.5
+  characterState: 5
+  OnSpawnVFX: {fileID: 1069073989498846, guid: 7658ae01d0a0655468898c47617f4de6, type: 3}
+  OnSpawnSFX: {fileID: 8300000, guid: a9253d66f1165c24695d6134194a5d07, type: 3}
+  OnDespawnVFX: {fileID: 1096352044232144, guid: 6e4b9c1925f0d3f4d8446e551a2e20d3, type: 3}
+  OnDespawnSFX: {fileID: 0}
+  shakeFeedbackPower: 0.7
+  damagedObject: {fileID: 3237503043750766887, guid: 2385b9f1b8293714da9c672d82fd1f67, type: 3}
+  damage: 280
+  despawnOnColliderCharacter: 1
+  despawnOnColliderEnvironment: 1
+  range: 70
+  speed: 16
